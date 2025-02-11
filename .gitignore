@@ -26,3 +26,30 @@ yarn-error.log*
 
 # Environment files (local configs)
 /.env.*
+
+# Ignore Android/IntelliJ specific files
+.idea/
+.gradle/
+/local.properties
+.DS_Store
+/build/
+/captures/
+
+# Ignore log files
+*.log
+
+# Ignore Firebase config (Ensure you keep a local copy)
+app/google-services.json
+
+# Ignore compiled files
+*.apk
+*.dex
+*.class
+*.jar
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
+
+# Ignore Git metadata files
+*.iml
