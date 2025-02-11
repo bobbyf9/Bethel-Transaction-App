@@ -36,8 +36,13 @@ Ensure you have the following installed:
 3. Connect the app to Firebase:
    - Go to [Firebase Console](https://console.firebase.google.com/)
    - Create a new Firebase project
-   - Add an Android app to the Firebase project
-   - Download `google-services.json` and place it in `app/` directory
+   - Add the Android app to the Firebase project
+   - Add App name by copying the app name as is on the package name in Android Studio
+   - You can optionally add the SHA-1 off the app to Firebase
+   - To get the SHA-1 run this command in Android Studio terminal when the Project Files are open "./gradlew signingReport" do not run with the quotes
+   - Download `google-services.json` and place it in `app/` directory on Android Studio
+   - Activate Realtime Database on Firebase portal
+   - Go to the Authentication Section on Firebase and on the Sign-in method select Email/Password as the provider
 4. Sync Gradle and run the app on an emulator or physical device.
 
 ## Firebase Database Rules
