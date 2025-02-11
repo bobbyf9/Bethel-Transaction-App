@@ -29,7 +29,7 @@ Ensure you have the following installed:
 ### Steps to Run the Mobile App
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/bethel-transaction-app.git
+   git clone https://github.com/bobbyf9/bethel-transaction-app.git
    cd bethel-transaction-app
    ```
 2. Open the project in **Android Studio**.
