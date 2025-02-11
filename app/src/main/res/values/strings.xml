@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bethel Transaction App</string>
+    <string name="default_web_client_id">881337190795-0rnhmb82if9omjnhr8r5o1ma9m1jnpvt.apps.googleusercontent.com</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="creat_account">CREAT ACCOUNT</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="transactions">Transactions</string>
+    <string name="no_transactions_available">No transactions available</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "881337190795",
+    "project_id": "bethel-transaction-app",
+    "storage_bucket": "bethel-transaction-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881337190795:android:bdce79e9fdf330f366c78e",
+        "android_client_info": {
+          "package_name": "com.example.betheltransactionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881337190795-1uv17n2dhb06u719a3vop2c7btke3kfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.betheltransactionapp",
+            "certificate_hash": "2d474f7711bb30dc108d7a6b507ce4ff40712378"
+          }
+        },
+        {
+          "client_id": "881337190795-j95d0dokcms2u4a40trm6bbcqgtls6r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb7IvK2nhqS0VVAYSIH1iX2PitC5PPLQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881337190795-j95d0dokcms2u4a40trm6bbcqgtls6r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
