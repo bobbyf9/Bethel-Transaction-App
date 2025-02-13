@@ -23,6 +23,7 @@ Bethel Transaction App is a mobile application for tracking financial transactio
 ### Prerequisites
 Ensure you have the following installed:
 - Android Studio
+- Internet Connection
 - Java Development Kit (JDK)
 - Firebase account
 
@@ -44,6 +45,7 @@ Ensure you have the following installed:
    - Activate Realtime Database on Firebase portal
    - Go to the Authentication Section on Firebase and on the Sign-in method select Email/Password as the provider
 4. Sync Gradle and run the app on an emulator or physical device.
+   **Internet connection is necessary for the apk to communicate with the dataabse**
 
 ## Firebase Database Rules
 Ensure your Firebase Database has the following security rules:
@@ -59,6 +61,13 @@ Ensure your Firebase Database has the following security rules:
   }
 }
 ```
+
+### User Manual (using the app)
+
+1. After opening the app for first-time users register on the app with email after successful registration use the login option
+2. On successful login on the home page use the add icon on the bottom right of the screen to add transactions.
+3. Transactions added will be displayed on the home screen
+**note: user cannot see the transactions of other users only his/her transactions**
 
 ## Contribution Guidelines
 1. Fork the repository.
