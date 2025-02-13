@@ -46,7 +46,7 @@ Ensure you have the following installed:
    - Go to the Authentication Section on Firebase and on the Sign-in method select Email/Password as the provider
 4. Sync Gradle and run the app on an emulator or physical device.
    
-   - **Internet connection is necessary for the apk to communicate with the dataabse**
+**Internet connection is necessary for the apk to communicate with the dataabse**
 
 ## Firebase Database Rules
 Ensure your Firebase Database has the following security rules:
